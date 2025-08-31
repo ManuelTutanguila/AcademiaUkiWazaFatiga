@@ -59,6 +59,45 @@ box-shadow: 1px 2px 4px #F29422;
     float: left;
     margin-top: 15px;
     margin-left: 60px;
+ }
+ main img {
+    font-size: 200px;
+    width: 230px;
+    
+ }
+ main
+  
+
+ h2 {
+    text-align: center;
+    color:#014040;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+ }
+
+ footer {
+    background-color: #F27127;
+    text-align: center;
     
  }
 
+ main img {
+    width: 600px;
+    padding: 30px;
+    margin-left: 25%;
+    margin-right: 50%;
+ }
+
+ .Dapuma {
+    text-align: center;
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom: 20px;
+ } 
+
+ ul img {
+
+margin: auto;
+    width: 200px;
+    margin-bottom: 0px;
+ }
