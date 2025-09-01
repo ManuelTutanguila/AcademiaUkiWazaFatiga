@@ -63,12 +63,20 @@ box-shadow: 1px 2px 4px #F29422;
  main img {
     font-size: 200px;
     width: 230px;
-    
+    max-width: 100%;
  }
- main
+
+ picture {
+    margin: auto;
+ }
+ main {
+    text-align: justify;
+ }
   
 
  h2 {
+    border-radius: 10px;
+    background-image: linear-gradient(to right,  #f271279f,  #F2D9BB);
     text-align: center;
     color:#014040;
     text-align: center;
@@ -100,4 +108,9 @@ box-shadow: 1px 2px 4px #F29422;
 margin: auto;
     width: 200px;
     margin-bottom: 0px;
+ }
+ article {
+    background-color: #e2ddd7;
+    padding: 10px;
+    border: #F29422;
  }
